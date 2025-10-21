@@ -1,3 +1,3 @@
-# Data-Analyst-Project
-All about data project, that I've been learned.
-All using data from Kaggle and some from educational youtuber
+# Hands-on-Data-Practice
+“This repo is a collection of recreated data projects inspired by YouTube tutorials.
+The goal is to reinforce learning concepts, not to claim original ownership.”
